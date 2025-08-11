@@ -1,0 +1,31 @@
+Account created with balance: ₹3000.0
+
+***** Transaction Receipt *****
+Transaction Type : Deposit
+Amount Deposited : ₹200.0
+Account Number   : XXXXXX6610
+Updated Balance  : ₹3200.0
+Date/Time        : 11-Aug-2025  02:49 pm
+Thank you for using our ATM/Bank!
+******************************
+
+
+***** Transaction Receipt *****
+Transaction Type : Withdrawal
+Amount Withdrawn : ₹100.0
+Account Number   : XXXXXX6610
+Updated Balance  : ₹3100.0
+Date/Time        : 11-Aug-2025  02:49 pm
+Thank you for using our ATM/Bank!
+******************************
+
+
+***** Transaction Receipt *****
+Transaction Type : Deposit
+Amount Deposited : ₹4000.0
+Account Number   : XXXXXX6610
+Updated Balance  : ₹7100.0
+Date/Time        : 11-Aug-2025  02:50 pm
+Thank you for using our ATM/Bank!
+******************************
+
